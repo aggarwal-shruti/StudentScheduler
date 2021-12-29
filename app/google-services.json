@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504128926820",
+    "project_id": "student-scheduler-81846",
+    "storage_bucket": "student-scheduler-81846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504128926820:android:f7c097b106b190fb7e5b71",
+        "android_client_info": {
+          "package_name": "com.example.studentscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504128926820-qspc4bq9si3ovs0q4vg189hqq39fcotu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5gSNKRXZxDd0GiWpQfJ2br3IW4Vr4Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504128926820-qspc4bq9si3ovs0q4vg189hqq39fcotu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

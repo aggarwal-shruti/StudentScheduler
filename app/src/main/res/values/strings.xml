@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Student Scheduler</string>
+    <string name="logo">logo</string>
+    <string name="student_scheduler">Student Scheduler</string>
+    <string name="time_to_work_mindfully">Time to work mindfully</string>
+    <string name="loginlogo">loginlogo</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="save">save</string>
+    <string name="home">Home</string>
+    <string name="my_schedules">My schedules</string>
+    <string name="to_do_list">To-do List</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_open">Open Navigation Drawer</string>
+    <string name="navigation_close">Close Navigation Drawer</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="cancel">cancel</string>
+    <string name="register">Register</string>
+    <string name="new_user_sign_up_instead">New User? Sign up Instead</string>
+    <string name="sign_up">sign up</string>
+    <string name="floating_button">Floating Button</string>
+    <string name="delete_my_account">Delete My Account</string>
+</resources>
